@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohitgithub001
 - 👀 I’m interested in Business Analytics
 - 🌱 I’m currently learning SQL , POWER BI
-- 💞️ I’m looking to collaborate on Business Problems, Analytics < Data visualization
+- 💞️ I’m looking to collaborate on Identify Business Problems, Analytics , Data visualization
 - 📫 Mail me at rohitkhanna445.rk@gmail.com
 
 <!---
